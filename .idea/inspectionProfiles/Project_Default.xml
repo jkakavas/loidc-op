@@ -1,0 +1,40 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <option name="myLocal" value="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="15">
+            <item index="0" class="java.lang.String" itemvalue="lxml" />
+            <item index="1" class="java.lang.String" itemvalue="dnspython" />
+            <item index="2" class="java.lang.String" itemvalue="gitdb" />
+            <item index="3" class="java.lang.String" itemvalue="djangosaml2-dj16" />
+            <item index="4" class="java.lang.String" itemvalue="django-vff" />
+            <item index="5" class="java.lang.String" itemvalue="Pygments" />
+            <item index="6" class="java.lang.String" itemvalue="Django" />
+            <item index="7" class="java.lang.String" itemvalue="South" />
+            <item index="8" class="java.lang.String" itemvalue="django-registration" />
+            <item index="9" class="java.lang.String" itemvalue="python-whois" />
+            <item index="10" class="java.lang.String" itemvalue="publicsuffix" />
+            <item index="11" class="java.lang.String" itemvalue="fudge" />
+            <item index="12" class="java.lang.String" itemvalue="psycopg2" />
+            <item index="13" class="java.lang.String" itemvalue="django-recaptcha" />
+            <item index="14" class="java.lang.String" itemvalue="oic" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredBaseClasses">
+        <list>
+          <option value="unittest.TestCase" />
+          <option value="unittest.case.TestCase" />
+          <option value="PyQt4.QtGui.QWizard.QWizard" />
+          <option value="PyQt4.QtGui.QDialog.QDialog" />
+          <option value="PyQt4.QtCore.QObject.QObject" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

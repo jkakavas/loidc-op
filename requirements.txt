@@ -1,0 +1,6 @@
+pyop
+Flask
+Flask-Session
+Flask-Login
+gunicorn
+ldap3
